@@ -20,3 +20,7 @@ y ahora estara en la pantalla inicial y se le mostrara la patente ingresada junt
 Para poder marcar la salida de un vehiculo se debe presionar la patente que se quiere eliminar desde la misma lista, esto te llevara
 a la pantalla de "Resumen" donde aparecera el costo en proporcion al tiempo de estadia, Al marcar salida se le devolvera al Main y la
 patente sera borrada de la lista de patentes
+
+#Extras
+La aplicacion no esta completa al 100% se pueden ingresar patentes sin valores simplemente apretando la tecla espacio.
+Agradecimientos a Half_Pipes por darme el png del icono de la app

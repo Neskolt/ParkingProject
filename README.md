@@ -1,5 +1,7 @@
 #Introduccion
 Este es un proyecto del instituto Virginio Gomez, el proyecto es una app para el manejo de los automoviles de un estacionamiento
+para el proyecto se uso el IDE AndroidStudio y se trabajo con Kotlin y Jetpack Compose 
+
 sobre mas dudas contactar con mi discord= Adaahlor
 
 #Requerimientos
